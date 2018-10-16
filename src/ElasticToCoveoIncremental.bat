@@ -1,0 +1,1 @@
+python ElasticToCoveo.py -index mynewindex --iq "{\"query\": { \"range\" : {  \"date\": { \"gte\": \"[REFRESH_DATE]\" }}}}" -porgid "platformdemsc3zlf3p" -psourceid "tw43i2amxl3nsertsnxy-platformdemoese3f2p" -papi "xx4f3ee53-2d5-4fc4-b924-75de4edda6e5" -es-host 1baff89a12a5a0240646d9b95.us-east-1.aws.found.io -es-port 9200 -es-auth "elastic:DEWWdjQNZ6z7M5NMWr"

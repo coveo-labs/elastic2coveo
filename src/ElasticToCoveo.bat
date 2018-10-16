@@ -1,0 +1,1 @@
+python ElasticToCoveo.py -index mynewindex -porgid "platformdemtic3zlx2p" -psourceid "tw43i2am4llgrtxesnxy-platformdemoelastidsc3zlf3f2p" -papi "xx4f3exe53-2d5-4fc4-b924-75de4edda6e5" -es-host 1baff89a12ad647866b4ab95.us-east-1.aws.found.io -es-port 9200 -es-auth "elastic:DEW66sQNZ6z7M5NMWr"
