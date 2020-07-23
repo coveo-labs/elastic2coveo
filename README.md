@@ -55,6 +55,7 @@ Then follow the Startup parameters explanation.
 ### Dependencies
 * [Python 3.x](https://www.python.org/downloads/)
 * [Elasticsearch index](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+ * Remark: if you are using an OLDER elasticsearch version. install the major elasticsearch version using: ``` pip install elasticsearch1 ```
 * [Python Elasticsearch Client](https://elasticsearch-py.readthedocs.io/en/master/)
 * [Python Requests library]
 * [Coveo Push Source](https://docs.coveo.com/en/92), Step 0 and Step 1
